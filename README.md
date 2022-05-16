@@ -8,10 +8,11 @@
 
 ## Description
 - Re factoring the website to add semantic tags to the HTML.
-- Adding accessibility options
-- Re formatting the webpage to make the code cleaner.
+- Adding accessibility options (font, code cleanup, etc).
+- Re formatting the CSS.
+- Adding detailed notes regarding the changes we made.
 ## Visuals
-![PNG](./assets/images/Horiseon-Search-Engine-Optimization.png)
+![PNG](./assets/images/Horiseon.png)
 
 ## Resources
 [Live Site](https://ntraugh.github.io/seo-refactor/)
