@@ -7,8 +7,9 @@
 2. [Visuals](#visuals)
 
 ## Description
-
-
+- Re factoring the website to add semantic tags to the HTML.
+- Adding accessibility options
+- Re formatting the webpage to make the code cleaner.
 ## Visuals
 ![PNG](./assets/images/Horiseon-Search-Engine-Optimization.png)
 

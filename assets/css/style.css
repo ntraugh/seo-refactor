@@ -81,7 +81,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* consolidated the benefit classes */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -92,7 +92,7 @@ p {
     text-align: center;
 }
 
-
+/* consolidated the benefit img classes */
 .benefit img {
     display: block;
     margin: 10px auto;
